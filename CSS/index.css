@@ -1,6 +1,6 @@
 .butStyle {
 	padding: 15px 40px; 
-	background: blue; 
+	background: #C0C0C0; 
 	color: white; 
 	font-weight: bold;
 	font-size: 18px;
@@ -29,8 +29,30 @@
 	text-align:right;
 	color: #008000;
 }
+h1{
 
+     font-size:50px;
+     color: #FFFFFF;
+     text-align: center;
+	
+}
 
+header{
+     background-color: #C0C0C0;
+	
+}
 
+html{
+     background-color: #F8F8FF;
+	
+}
+
+aside{
+	flex: 1;
+	background-color: grey;
+	width: 200px;
+	height: 100vh;
+	
+}
 
 
