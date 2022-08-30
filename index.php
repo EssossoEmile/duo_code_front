@@ -12,6 +12,9 @@
     <body>
 	<div id="background">
 		<header>
+			<div class="horizontale">			
+				<h1>Welcome to the Script Dashboard</h1>
+			</div>
 		</header>
 		<section>
 			<div class="container">
